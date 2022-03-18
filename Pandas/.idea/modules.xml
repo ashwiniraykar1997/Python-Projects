@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Homework/Assignment13/.idea/Assignment13.iml" filepath="$PROJECT_DIR$/../../Homework/Assignment13/.idea/Assignment13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Homework/Assignment14/.idea/Assignment14.iml" filepath="$PROJECT_DIR$/../../Homework/Assignment14/.idea/Assignment14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ML_Application(supervised machine learning)/.idea/ML_Application(supervised machine learning).iml" filepath="$PROJECT_DIR$/../ML_Application(supervised machine learning)/.idea/ML_Application(supervised machine learning).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pandas.iml" filepath="$PROJECT_DIR$/.idea/Pandas.iml" />
+    </modules>
+  </component>
+</project>
